@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GabrielaOliveira27
+- 👋 Hi, I’m @Gabriela
 - 👀 Estudante...
 - 🌱 "Sempre buscando novos conhecimentos"
 <div style="display: inline_block"><br>
