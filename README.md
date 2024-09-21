@@ -1,4 +1,4 @@
-<h2 align="left">👋! Hi, I’m @Gabriela</h2>
+<h2 align="left">👋! welcome to my profile</h2>
 - 👀 Estudante... <br>
 - 🌱 "Sempre buscando novos conhecimentos"
 
